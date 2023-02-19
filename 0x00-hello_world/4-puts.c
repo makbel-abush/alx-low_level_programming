@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main . main block 
- * return:o
+ * return: o
  */
 int main(void)
 {
