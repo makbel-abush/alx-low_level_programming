@@ -3,7 +3,7 @@
 /**
  * _islower - function that print lower case alphabet
  *
- * c:parameter that will  printed in  lower case
+ * @c : pareameter to be printed
  *
  * Return: 1 if it is lower case
  * and 0 otherwise
