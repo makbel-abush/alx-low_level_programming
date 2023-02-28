@@ -1,5 +1,6 @@
 /**
- * rese_to_98 - pointer to an int points to 98
+ * reset_to_98 - pointer to an int points to 98
+ *
  * @n: a value for a npumber 98 is pointed
  *
  * Return: nothing to success
